@@ -1283,48 +1283,33 @@ body {
                 }
             }
         }
-
         .section--7 {
-            padding: 20px 0px;
-
+            padding: 20px 5px;
             .section--7--letter {
                 gap: 15px;
-
                 h2 {
                     font-size: 36px;
                 }
-
                 .section--7--1 {
                     max-width: 330px;
                     width: 100%;
                     display: flex;
                     flex-direction: column;
-
-
                     gap: 10px;
-
                     p {
                         font-size: 14px;
                     }
                 }
-
                 .section--7--2 {
-                    max-width: 330px;
                     width: 100%;
-
                     gap: 10px;
-
                     p {
                         font-size: 12px;
                     }
                 }
-
                 .section--7--3 {
-                    max-width: 330px;
                     width: 100%;
-
                     gap: 10px;
-
                     p {
                         font-size: 12px;
                     }
